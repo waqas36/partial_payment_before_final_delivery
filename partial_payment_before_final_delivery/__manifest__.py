@@ -1,8 +1,8 @@
 {
     # App information
-    'name': 'Partial Payment Before Delivery',
+    'name': 'Partial Payment First Before Delivery',
     'category': 'sales',
-    'summary': 'Partial Payment Before Delivery',
+    'summary': 'Partial Payment First Before Delivery',
     'version': '14.1.1.0.1',
     'license': 'AGPL-3',
     'depends': [
