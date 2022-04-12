@@ -4,7 +4,6 @@
     'category': 'sales',
     'summary': 'Partial Payment First Before Delivery',
     'version': '14.1.1.0.1',
-    'license': 'AGPL-3',
     'depends': [
         'base','sale','delivery','stock'
     ],
