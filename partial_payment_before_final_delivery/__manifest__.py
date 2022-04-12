@@ -15,7 +15,7 @@
     ],
 
     'images': [
-        'static/description/banner.jpg',
+        'static/description/thumbnail.png',
     ],
 
     # Author
