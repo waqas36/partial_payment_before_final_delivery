@@ -1,8 +1,8 @@
 {
     # App information
-    'name': 'Partial Payment First Before Delivery',
+    'name': 'Partial Payment Before Final Delivery',
     'category': 'sales',
-    'summary': 'Partial Payment First Before Delivery',
+    'summary': 'Partial Payment Before Final Delivery',
     'version': '14.1.1.0.1',
     'depends': [
         'base','sale','delivery','stock'
@@ -15,7 +15,7 @@
     ],
 
     'images': [
-        'static/description/banner.png',
+        'static/description/banner.jpg',
     ],
 
     # Author
