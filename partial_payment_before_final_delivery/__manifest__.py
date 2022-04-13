@@ -1,6 +1,6 @@
 {
     # App information
-    'name': 'Partial Payment First Before Delivery',
+    'name': 'Partial Payment First, Before Delivery',
     'category': 'sales',
     'summary': 'Partial Payment First Before Delivery',
     'version': '14.1.1.0.1',
