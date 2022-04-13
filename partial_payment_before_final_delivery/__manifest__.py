@@ -1,8 +1,8 @@
 {
     # App information
-    'name': 'Partial Payment Before First Delivery',
+    'name': 'Partial Payment First, Before Delivery',
     'category': 'sales',
-    'summary': 'Partial Payment Before First Delivery',
+    'summary': 'Partial Payment First, Before Delivery',
     'version': '14.1.1.0.1',
     'depends': [
         'base','sale','delivery','stock'
